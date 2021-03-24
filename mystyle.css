@@ -3,7 +3,16 @@
     line-height: 150px;
 }
 
+h1 {
+    text-align: center;
+}
+
+td {
+    align-content: space-between;
+}
+
 #About {
+    color: white;
     background-color: darkblue;
 }
 
@@ -22,3 +31,14 @@
 .topnav {
     float: right;
 }
+
+.Work {
+    justify-content: space-between;
+}
+.profileimg {
+
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
