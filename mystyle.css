@@ -3,18 +3,22 @@
     line-height: 200px;
 }
 
-.About {
+#About {
     background-color: darkblue;
 }
 
-.Work {
+#Work {
     background-color: blue;
 }
 
-.Contact {
+#Contact {
     background-color: dodgerblue;
 }
 
-.Resume {  
+#Resume {  
     background-color: lightseagreen;
+}
+
+.topnav {
+    float: right;
 }
